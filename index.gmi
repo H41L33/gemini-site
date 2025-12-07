@@ -2,7 +2,7 @@
 
 Welcome to my website.
 
-07/12/2025 18:04
+07/12/2025 18:29
 
 # Home
 
@@ -34,4 +34,4 @@ All the content is loaded immediately, no infinite scrolling, and all my posts a
 
 With all that said, why don't you take a look at my showcase 😘.
 
-=> /pages/showcase.html showcase
+=> ./pages/showcase.html showcase

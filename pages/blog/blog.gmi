@@ -1,9 +1,0 @@
-# Blog
-
-07/12/2025 18:02
-
-# Blog
-
-Here are my latest thoughts.
-
-{{ nav_collection }}
