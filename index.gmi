@@ -1,8 +1,8 @@
 # Welcome
 
-Welcome to my website.
+ Hailey Welsh - Software developer, Linux enthusiast, and creator of Slate SSG. Explore my blog on web development, ThinkPad builds, Gentoo Linux, and multi-protocol web accessibility. Discover projects, showcase work, and contact details. 
 
-07/12/2025 21:16
+07/12/2025 21:23
 
 # Home
 
