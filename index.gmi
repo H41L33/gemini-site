@@ -2,13 +2,13 @@
 
  Hayden Ellis Clarke - Software developer, Linux enthusiast, and creator of Slate SSG. Explore my blog on web development, ThinkPad builds, Gentoo Linux, and multi-protocol web accessibility. Discover projects, showcase work, and contact details. 
 
-08/12/2025 00:10
+08/12/2025 14:29
 
 # Home
 
 ## Hello!
 
-Welcome to my website, here you can find (almost) everything there is to know about me, Hayden Ellis Clarke.
+Welcome to my website, here you can find (almost) everything there is to know about me, Hayden.
 
 On this website I have:
 
